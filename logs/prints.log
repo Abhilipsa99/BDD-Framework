@@ -1,0 +1,11 @@
+23:18:00.076 [main] INFO  resources.base - Driver is initialized
+23:18:02.414 [main] INFO  resources.base - Navigated to Home Page
+23:18:06.021 [main] INFO  resources.base - Navigated to track order page for filling the order details
+23:18:11.502 [main] INFO  resources.base - Driver is closed successfully
+23:18:13.462 [main] INFO  resources.base - Driver is initialized
+23:18:15.223 [main] INFO  resources.base - Navigated to Home Page
+23:18:19.413 [main] INFO  resources.base - Subscribed Successfully
+23:18:23.850 [main] INFO  resources.base - Driver is closed successfully
+23:18:25.771 [main] INFO  resources.base - Driver is initialized
+23:18:27.311 [main] INFO  resources.base - Navigated to Home Page
+23:18:27.314 [main] ERROR resources.base - An error occured : Unable to get the expected text

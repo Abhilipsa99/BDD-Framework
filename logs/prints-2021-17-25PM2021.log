@@ -1,0 +1,21 @@
+23:17:00.450 [main] INFO  resources.base - Navigated to Home Page
+23:17:01.728 [main] INFO  resources.base - Successfully Landed on Help Page
+23:17:03.479 [main] INFO  resources.base - Driver is closed successfully
+23:17:05.500 [main] INFO  resources.base - Driver is initialized
+23:17:07.637 [main] INFO  resources.base - Navigated to Home Page
+23:17:12.217 [main] INFO  resources.base - Moved to child window successfully
+23:17:13.481 [main] INFO  resources.base - Switched back to parent window
+23:17:13.945 [main] INFO  resources.base - Driver is closed successfully
+23:17:16.356 [main] INFO  resources.base - Driver is initialized
+23:17:19.911 [main] INFO  resources.base - Navigated to Home Page
+23:17:22.739 [main] INFO  resources.base - No products found! Search for a valid product
+23:17:23.836 [main] INFO  resources.base - Driver is closed successfully
+23:17:25.861 [main] INFO  resources.base - Driver is initialized
+23:17:27.693 [main] INFO  resources.base - Navigated to Home Page
+23:17:42.082 [main] INFO  resources.base - Successfully added to wishlist
+23:17:42.456 [main] INFO  resources.base - Driver is closed successfully
+23:17:44.336 [main] INFO  resources.base - Driver is initialized
+23:17:46.490 [main] INFO  resources.base - Navigated to Home Page
+23:17:50.820 [main] INFO  resources.base - Selected the desired card
+23:17:53.489 [main] INFO  resources.base - Successfully sent the card
+23:17:58.123 [main] INFO  resources.base - Driver is closed successfully

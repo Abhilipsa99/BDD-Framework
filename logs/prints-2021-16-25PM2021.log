@@ -1,0 +1,11 @@
+23:16:23.575 [main] INFO  resources.base - Driver is initialized
+23:16:25.799 [main] INFO  resources.base - Navigated to Home Page
+23:16:29.893 [main] INFO  resources.base - Navigated to Login Page
+23:16:37.643 [main] ERROR resources.base - Invalid Details! Unable to login
+23:16:41.962 [main] INFO  resources.base - Driver is closed successfully
+23:16:43.790 [main] INFO  resources.base - Driver is initialized
+23:16:46.356 [main] INFO  resources.base - Navigated to Home Page
+23:16:49.737 [main] INFO  resources.base - Navigated to Stores page
+23:16:51.699 [main] INFO  resources.base - Navigated to Urban Ladder Bandra Store page
+23:16:55.993 [main] INFO  resources.base - Driver is closed successfully
+23:16:58.129 [main] INFO  resources.base - Driver is initialized
